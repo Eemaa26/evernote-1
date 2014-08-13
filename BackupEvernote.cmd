@@ -2,7 +2,7 @@ REM Script to backup all Evernote Notes to a predefined path.
 REM Inspired by Jamie Todd Rubin - http://www.jamierubin.net/2014/08/12/going-paperless-how-and-why-ive-automated-backups-of-my-evernote-data/
 
 REM Set your backup path for Evernote below.
-SET BackupPath=C:\Users\alton_000\Documents\Evernote Backup
+SET BackupPath=C:\Users\username\Documents\Evernote Backup
 REM Set the name of your notebook you want to write your backup log to.
 SET notebook=Timeline
 
